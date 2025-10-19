@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,100:1867C0&height=200&section=header&text=Erica%20Esteves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:2B86C5&height=200&section=header&text=Erica%20Esteves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 <!-- Apresentação -->
@@ -87,5 +87,5 @@ Atualmente estou aprofundando meus estudos em **Flutter (mobile)** e **Spring Bo
 
 <!-- Rodapé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1867C0,100:4FC08D&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B86C5,100:7B2FF7&height=120&section=footer"/>
 </p>
