@@ -78,7 +78,7 @@ Atualmente estou aprofundando meus estudos em **Flutter (mobile)** e **Spring Bo
 ---
 
 <p align="center">
-  <img src="https://github.com/erizoka/erizoka/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/erizoka/erizoka/blob/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">
