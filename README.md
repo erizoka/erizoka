@@ -4,7 +4,7 @@
 </p>
 
 <!-- Apresentação -->
-# 👋 Olá! Eu sou a Erica Esteves  
+# 👋 Olá! Sou a Erica  
 
 Sou desenvolvedora com experiência em **frontend e backend**, sempre em busca de melhorar a **experiência do usuário** e entregar soluções que façam sentido de verdade.  
 Atualmente trabalho com **Flutter** e **Spring Boot**, mas também mantenho projetos pessoais em **Vue 3** (com TypeScript e Vuetify 💚).
