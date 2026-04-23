@@ -9,7 +9,7 @@
 Sou desenvolvedora com experiência em **frontend e backend**, sempre em busca de melhorar a **experiência do usuário** e entregar soluções que façam sentido de verdade.  
 Atualmente trabalho com **Flutter** e **Spring Boot**, mas também mantenho projetos pessoais em **Vue 3** (com TypeScript e Vuetify 💚).
 
-Gosto de aprender explorando — seja testando novas ideias, ajustando estilos no detalhe ou refatorando até o código “ficar com cara de limpo”.  
+Gosto de aprender explorando — seja testando novas ideias, ajustando estilos no detalhe ou refatorando até que o código “fique com cara de limpo”.  
 Ah, e se algo não funciona como esperado... provavelmente eu já tô com o console aberto 😅  
 
 ---
@@ -45,7 +45,7 @@ Ah, e se algo não funciona como esperado... provavelmente eu já tô com o cons
 Um dos meus projetos favoritos — um app em Flutter que consome a API da Marvel para explorar personagens, quadrinhos, eventos e mais.  
 
 💻 **[Portfolio Vue 3](https://erizoka.github.io/myPortfolio)**  
-Meu espaço pessoal com transições suaves, modais e efeitos parallax. Desenvolvido com Vue 3 + TypeScript + Vuetify, explorando boas práticas de organização e UI.  
+Meu espaço pessoal com transições suaves, modais e efeitos de parallax. Desenvolvido com Vue 3 + TypeScript + Vuetify, explorando boas práticas de organização e UI.  
 
 ⚙️ **[XPTO Manager - Spring Boot / Batch + Vue](https://github.com/erizoka/xpto-manager)**  
 Projeto fullstack para gerenciar clientes e usuários, com Dashboard de stats usando gerenciamento de estado e jobs sendo disparados a cada novo usuário.
@@ -72,6 +72,9 @@ Atualmente estou aprofundando meus estudos em **Flutter (mobile)** e **Spring Bo
   </a>
   <a href="https://github.com/erizoka">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/erizoka/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
